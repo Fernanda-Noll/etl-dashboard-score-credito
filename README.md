@@ -170,7 +170,6 @@ python ETL.py
  ┃ ┗ 📂 tratados
  ┣ 📂 dashboard
  ┣ 📂 imagens
- ┣ 📂 videos
  ┣ 📜 ETL.py
  ┣ 📄 Dicionário de dados das tabelas.pdf
  ┗ 📜 README.md
