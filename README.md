@@ -29,7 +29,7 @@ Principais perguntas de negócio:
 
 📌 Vídeo explicando o dashboard e os principais insights:
 
-👉 [🎥 Ver demonstração do projeto](videos/video_score_credito.mp4)
+👉 [🎥 Ver demonstração do projeto](https://drive.google.com/file/d/1GiyXZlPpwXY_cevUOHvNSKqrtQ0V0RFX/view)
 
 ---
 
